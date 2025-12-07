@@ -21,11 +21,11 @@ public class Ex3 {
         if (age >= 21 && age <= 30) {
             salary = (numDay1 * 300) - (numDay2 * 50);
         } else if (age >= 31 && age <= 40) {
-            salary = (numDay2 * 500) - (numDay1 * 50);
+            salary = (numDay1 * 500) - (numDay2 * 50);
         } else if (age >= 41 && age <= 50) {
-            salary = (numDay2 * 1000) - (numDay1 * 25);
+            salary = (numDay1 * 1000) - (numDay2 * 25);
         } else if (age >= 51 && age <= 60) {
-            salary = (numDay2 * 3000);
+            salary = (numDay1 * 3000);
         }
         
         if (weight >= 10 && weight <= 60) {

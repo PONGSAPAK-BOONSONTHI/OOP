@@ -5,6 +5,7 @@ public class Ex2 {
 
         System.out.print("Input your money : ");
         double money = input.nextDouble();
+        System.out.print("Input your account type(Please type A B C or X in uppercase) : ");
         char ac = input.next().charAt(0);
         
         double interest = 0, result;
