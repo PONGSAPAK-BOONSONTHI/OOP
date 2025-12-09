@@ -18,19 +18,19 @@ public class Ex3 {
         System.out.print("Please insert your body weight : ");
         weight = input.nextDouble();
         
-        if (age >= 21 && age <= 30) {
+        if ((age >= 21) && (age <= 30)) {
             salary = (numDay1 * 300) - (numDay2 * 50);
-        } else if (age >= 31 && age <= 40) {
+        } else if ((age >= 31) && (age <= 40)) {
             salary = (numDay1 * 500) - (numDay2 * 50);
-        } else if (age >= 41 && age <= 50) {
+        } else if ((age >= 41) && (age <= 50)) {
             salary = (numDay1 * 1000) - (numDay2 * 25);
-        } else if (age >= 51 && age <= 60) {
+        } else if ((age >= 51) && (age <= 60)) {
             salary = (numDay1 * 3000);
         }
         
-        if (weight >= 10 && weight <= 60) {
+        if ((weight >= 10) && (weight <= 60)) {
             salaryBonus = salary + 5000 ;
-        } else if (weight >= 61 && weight <= 90) {
+        } else if ((weight >= 61) && (weight <= 90)) {
             salaryBonus = salary + (5000 - ((weight - 60) * 10));
         }
         

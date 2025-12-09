@@ -10,11 +10,20 @@ public class Ex2 {
         
         double interest = 0, result;
         switch (ac) {
-            case 'A' -> interest = money * 0.015;
-            case 'B' -> interest = money * 0.02;
-            case 'C' -> interest = money * 0.015;
-            case 'X' -> interest = money * 0.05;
+            case 'A':
+                interest = money * 0.015;
+                break;
+            case 'B':
+                interest = money * 0.02;
+                break;
+            case 'C':
+                interest = money * 0.015;
+                break;
+            case 'X': 
+                interest = money * 0.05;
+                break;
         }
+        
         result = money + interest;
         System.out.println("Your total money in one year = " + (int)result);
     }
