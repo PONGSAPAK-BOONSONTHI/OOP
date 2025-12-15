@@ -12,6 +12,7 @@ public class Ex4 {
             String num = sc.next();
             Fnum += num;
         }
+        System.out.println("");
         System.out.println("Final Code = " + Fnum);
     }
 }

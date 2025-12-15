@@ -9,9 +9,9 @@ public class Ex9 {
         for (int i = 1; i <= n; i++) {
             if (i % 5 == 0) {
                 if (i == n) {
-                    System.out.println("/");
+                    System.out.println("\"");
                 } else {
-                    System.out.print("/");
+                    System.out.print("\"");
                 }
             } else {
                 if (i == n) {

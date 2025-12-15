@@ -6,7 +6,7 @@ public class Ex5 {
         int n, exc = 0, good = 0, fair = 0, poor = 0;
         System.out.print("Enter number of students: ");
         n = sc.nextInt();
-        for (int i = 0; i <= n; i++) {
+        for (int i = 0; i < n; i++) {
             System.out.print("Enter score for student " + (i + 1) + " : ");
             int score = sc.nextInt();
             if (score >= 80) {
