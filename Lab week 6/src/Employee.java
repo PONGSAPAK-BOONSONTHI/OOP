@@ -20,7 +20,7 @@ public class Employee {
         return false;
     }
     public void eat(Food f) {
-        energy += f.getEnergy();
+        energy += Food.getEnergy();
     }
     public String getName() {
         return name;
