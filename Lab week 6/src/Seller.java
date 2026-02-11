@@ -1,4 +1,4 @@
-public class Seller extends Employee{
+    public class Seller extends Employee{
     public Food sell(Employee e) {
         Wallet E_wallet = e.getWallet();
         Food f = new Food();
