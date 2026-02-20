@@ -5,7 +5,7 @@ import java.util.*;
 public class Customer {
     private String firstName;
     private String lastName;
-    private ArrayList acct;
+    private ArrayList<Account> acct;
     
     public Customer() {
         this("", "");
@@ -19,7 +19,7 @@ public class Customer {
         this.acct.add(acct);
     }
     public Account getAccount(int index) {
-        return (Account) acct.get(index);
+        return acct.get(index);
     }
     public int getNumOfAccount() {
         return acct.size();
