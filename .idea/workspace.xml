@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4452e710-d5a8-4edd-898c-761d3eb50930" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_A_1/manifest.mf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaAppSocketTest/ChatDemo.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaAppSocketTest/ChatHistory.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaAppSocketTest/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaAppSocketTest/manifest.mf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaAppSocketTest/nbproject/build-impl.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaAppSocketTest/nbproject/genfiles.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaAppSocketTest/nbproject/project.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaAppSocketTest/nbproject/project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaAppSocketTest/src/ChatDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaAppSocketTest/src/Login.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaAppSocketTest/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaAppSocketTest/src/TurnBasedServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,26 +12,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "PONGSAPAK-BOONSONTHI"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PONGSAPAK-BOONSONTHI&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/PONGSAPAK-BOONSONTHI/OOP.git",
-    "accountId": "613d82c7-15ac-44d6-85f8-51ce9e562190"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PONGSAPAK-BOONSONTHI/OOP.git&quot;,
+    &quot;accountId&quot;: &quot;613d82c7-15ac-44d6-85f8-51ce9e562190&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3Ad24wMP5Yc6CvJUZ0M6FbdoB1I" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -57,6 +44,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
